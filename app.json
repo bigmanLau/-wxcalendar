@@ -1,0 +1,34 @@
+{
+  "pages": [
+    "pages/jiaoyirili2/index",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "white",
+    "navigationBarTitleText": "日历布局实现",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#ffffff",
+    "selectedColor": "#ffffff",
+    "borderStyle": "white",
+    "backgroundColor": "#2A9EF1",
+    "list": [
+      {
+        "pagePath": "pages/jiaoyirili2/index",
+        "iconPath": "img/shouye.png",
+        "selectedIconPath": "img/shouye.png",
+        "text": "首页"
+      },
+    
+      {
+        "pagePath": "pages/logs/logs",
+        "iconPath": "img/zhiku.png",
+        "selectedIconPath": "img/zhiku.png",
+        "text": "日历"
+      }
+     
+    ]
+  }
+}

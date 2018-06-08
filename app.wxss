@@ -1,0 +1,735 @@
+.mt36{
+  margin-top: 36rpx;
+}
+.mt56{
+  margin-top: 56rpx;
+}
+.mt18{
+  margin-top: 18rpx;
+}
+.size18{
+  font-size: 18rpx;
+}
+.mt84{
+  margin-top: 84rpx;
+}
+.mr20{
+  margin-right: 20rpx;
+}
+.pt24{
+  padding-top: 24rpx;
+}
+.ml10{
+  margin-left: 10rpx;
+}
+.grayAd{
+  color: #adadad !important;
+}
+.ml80{
+  margin-left: 80rpx;
+}
+.black77{
+  color: #777777;
+}
+.bg_black{
+  background: #3c3c3c !important;
+}
+.flex_end{
+  justify-content: flex-end;
+}
+.ml17{
+  margin-left: 17rpx;
+}
+.margin37{
+  margin-left: 37rpx;
+  margin-right: 37rpx;
+}
+.mt100{
+  margin-top: 100rpx;
+}
+.ml7{
+  margin-left: 7rpx;
+}
+.mt24{
+  margin-top: 24rpx;
+}
+.mt133{
+  margin-top: 133rpx;
+}
+.mb30{
+  margin-bottom: 30rpx;
+}
+.size36{
+  font-size: 36rpx;
+
+}
+.ml16{
+  margin-left: 16rpx;
+}
+.ml34{
+  margin-left: 34rpx;
+}
+.ml32{
+   margin-left: 32rpx;
+}
+.mr32{
+  margin-right: 32rpx;
+}
+
+size28{
+  font-size: 28rpx;
+}
+.mr40{
+  margin-right: 40rpx;
+}
+.black3c{
+  color: #3c3c3c !important;
+}
+.redef{
+  color: #EF4B4C;
+}
+.blackbe{
+  color: #bebebe;
+}
+.ml43{
+  margin-left: 43rpx;
+}
+.mt17{
+  margin-top: 17rpx;
+}
+.mt154{
+margin-top: 154rpx;
+}
+.mb104{
+  margin-bottom: 104rpx;
+}
+.ml38{
+  margin-left: 38rpx;
+}
+.mt54{
+  margin-top: 54rpx;
+}
+.orangefa{
+  color: #FA825F;
+}
+.width100{
+  width: 100%;
+}
+ .common_button{
+  width: 200rpx;
+  height: 70rpx;
+  border-radius: 10rpx;
+  border-width: 3rpx;
+  border-color: #2A9EF1;
+  border-style: solid;
+  color: #2A9EF1;
+  font-size: 28rpx;
+}
+.mt44{
+  margin-top: 44rpx;
+}
+.size29{
+  font-size: 29rpx;
+}
+.green00{
+  color: #00AA8C;
+}
+.mr42{
+  margin-right: 42rpx;
+}
+.mt82{
+  margin-top: 82rpx;
+}
+.black73{
+  color: #737373;
+}
+.size24{
+  font-size: 24rpx;
+}
+.size28{
+  font-size: 28rpx;
+}
+.mt25{
+  margin-top: 25rpx;
+}
+.red1{
+  color:#F04B4B;
+}
+.red2{
+  color:#EF4B4C;
+}
+.flex_row{
+  display: flex;
+  flex-direction: row;
+}
+.mt60{
+  margin-top: 60rpx;
+}
+.margin32{
+  margin-left: 32rpx;
+  margin-right: 32rpx;
+}
+.mt15{
+  margin-top: 15rpx;
+}
+.margin50{
+  margin-left: 50rpx;
+  margin-right: 50rpx;
+}
+.flex_column{
+  display: flex;
+  flex-direction: column;
+}
+.padding10{
+  padding-left: 10rpx;
+  padding-right: 10rpx;
+}
+.mt14{
+  margin-top: 14rpx;
+}
+.pb40{
+  padding-bottom: 40rpx;
+}
+.icon{
+  width: 40rpx;
+  height: 40rpx;
+}
+.mb30{
+  margin-bottom: 30rpx;
+}
+.mt55{
+  margin-top: 55rpx;
+}
+.icon_small{
+   width: 30rpx;
+  height: 30rpx;
+}
+.mt93{
+  margin-top: 93rpx;
+}
+.line{
+  width: 100%;
+  height: 2rpx;
+  background:#f3f3f3;
+}
+.gone{
+  visibility: hidden;
+}
+.mt75{
+ margin-top: 75rpx;
+}
+.padding30{
+  padding-left: 30rpx;
+  padding-right: 30rpx;
+}
+.margin40{
+  margin-left: 40rpx;
+  margin-right: 40rpx;
+}
+.size40{
+  font-size: 40rpx;
+}
+.mt35{
+  margin-top: 35rpx;
+}
+.size20{
+  font-size: 20rpx;
+}
+.size50{
+  font-size: 50rpx;
+}
+.mb65{
+  margin-bottom: 65rpx;
+}
+.mb35{
+  margin-bottom: 35rpx;
+}
+.mt50{
+  margin-top: 50rpx;
+}
+.pt30{
+  padding-top: 30rpx;
+}
+.border{
+  border-bottom: 0.5rpx solid #dfe0de !important;
+}
+.border_dot{
+  border-bottom: 0.5rpx dotted #dfe0de !important;
+}
+.flex_center{
+  justify-content: center;
+  align-items: center;
+}
+.flex_left{
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.center{
+    align-items: center;
+}
+.mt40{
+  margin-top: 40rpx;
+}
+.mt45{
+  margin-top: 45rpx;
+}
+.mt12{
+  margin-top: 12rpx;
+}
+.margin45{
+  margin-left: 45rpx;
+  margin-right: 45rpx;
+}
+.margin55{
+    margin-left: 55rpx;
+  margin-right: 55rpx;
+}
+.mt70{
+  margin-top: 70rpx;
+}
+.pb60{
+  padding-bottom: 60rpx;
+}
+.size24{
+  font-size: 24rpx;
+}
+.flex_1{
+  flex:1;
+}
+.mt27{
+  margin-top: 27rpx;
+}
+.mt25{
+  margin-top: 25rpx;
+}
+/** 两边对齐*/
+.space-between {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+.size50{
+  font-size: 50rpx;
+}
+.space-between-column {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: space-between;
+  justify-content: center;
+}
+.bold{
+  font-weight: 600;
+}
+/**最后一个元素去掉border*/
+.last-no-border:last-child {
+  border: none;
+}
+
+/** 字符超出一行溢出隐藏*/
+.text-overflow-one {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
+.gray99{
+  color: #999999 !important;
+}
+.size26{
+  font-size: 26rpx;
+}
+
+/** 字符超出两行溢出隐藏*/
+.text-overflow-2 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+.mt114{
+  margin-top: 114rpx;
+}
+/**字符超出三行溢出隐藏*/
+.text-overflow-3 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+.fix_top{
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 999;
+}
+
+.title{
+  color: #333;
+  font-size: 35rpx;
+}
+.second_title{
+   color: #585858;
+  font-size: 25rpx;
+}
+.margin-top{
+  margin-top: 20rpx;
+}
+.margin-top2{
+  margin-top: 10rpx;
+}
+.margin-top3{
+  margin-top: 224rpx;
+}
+.mt10{
+    margin-top: 10rpx;
+}
+.tag_content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 15rpx;
+  margin-bottom: 15rpx;
+}
+
+.tag_view {
+  border: 1rpx solid #9adaee;
+  border-radius: 5rpx;
+  margin-left: 5rpx;
+  font-size: 28rpx;
+  color: #cacaca;
+  padding-left: 15rpx;
+  padding-right: 15rpx;
+}
+
+.tag_content image {
+  width: 34rpx;
+  height: 34rpx;
+}
+.main_color{
+  color:#348eff;
+}
+.main_bg{
+  background: #348eff !important;
+}
+.mb27{
+  margin-bottom: 27rpx;
+}
+.mb54{
+  margin-bottom: 54rpx;
+}
+.second_color{
+  color:#585858  !important;
+}
+.third_color{
+  color:#9f9f9f  !important;
+}
+
+
+/*乡镇天地颜色定义  */
+.white{
+  color:white !important;
+}
+.bg_white{
+  background: white !important;
+}
+.bg_transparent{
+  background: transparent !important;
+}
+.size25{
+  font-size: 25rpx;
+}
+.size33{
+    font-size: 33rpx;
+}
+.line3white{
+  background: white;
+  height: 3rpx;
+  width: 100%;
+}
+.border_white{
+  border: 1rpx solid white;
+}
+.br51{
+  border-radius: 51rpx;
+}
+.br27{
+  border-radius: 27rpx;
+}
+.flex_row_center{
+  align-items: center;
+}
+.flex_column_center{
+  justify-content: center;
+}
+.black{
+  color:#404040 !important;
+}
+.green{
+  color:#47b234 !important;
+}
+.bg_green{
+  background: #47b234 !important;
+}
+.padding20{
+  padding-left: 20rpx;
+  padding-right: 20rpx;
+}
+.gray{
+   color:#777777 !important;
+}
+.bg_gray{
+  background: #777777;
+}
+.bg_hui{
+  background: #F2F2F2;
+
+}
+.mt20{
+ margin-top: 20rpx;
+}
+.margin20{
+  margin-left:20rpx;
+  margin-right: 20rpx;
+}
+.margin30{
+  margin-left:30rpx;
+  margin-right: 30rpx;
+}
+.margin84{
+  margin-left: 84rpx;
+  margin-right: 84rpx;
+}.mb20{
+  margin-bottom: 20rpx;
+}
+.margin60{
+   margin-left: 60rpx;
+  margin-right: 60rpx;
+}
+.margin56{
+  margin-left: 56rpx;
+  margin-right: 56rpx;
+}
+.margin88{
+  margin-left: 88rpx;
+  margin-right: 88rpx;
+}
+.colorf9{
+  color: #f9f9f9 !important;
+}
+.bgf9{
+   background: #f9f9f9 !important;
+}
+.size30{
+  font-size: 30rpx !important;
+}
+.size35{
+  font-size: 35rpx !important;
+}
+.mt30{
+  margin-top: 30rpx;
+}
+.mt104{
+  margin-top: 104rpx;
+}
+.mt42{
+   margin-top: 42rpx;
+}
+.margin36{
+  margin-left: 36rpx;
+  margin-right: 36rpx;
+}
+.graya7{
+  color: #a7a7a7 !important;
+}
+.nowrap{
+  flex-wrap: nowrap;
+}
+.wrap{
+  flex-wrap: wrap;
+}
+.margin30{
+  margin-left: 30rpx;
+  margin-right: 30rpx;
+}
+.margin20{
+    margin-left: 20rpx;
+  margin-right: 20rpx;
+}
+.margin10{
+     margin-left: 10rpx;
+  margin-right: 10rpx;
+}
+.red{
+  color:#ff4242 !important;
+}
+.size38{
+  font-size: 38rpx;
+}
+.bg_orange{
+  background: #f28e1e;
+}
+.orange{
+  color:#f28e1e;
+}
+.pb20{
+  padding-bottom: 20rpx;
+}
+.pt20{
+  padding-top: 20rpx;
+}
+.pt40{
+  padding-top: 40rpx;
+}
+/*去掉微信小程序button默认边框  */
+button::after{
+border: none;
+}
+.mb200{
+  margin-bottom: 200rpx;
+}
+.bg_red{
+  background: #ff4242;
+}
+.mt7{
+  margin-top: 7rpx;
+}
+.blue{
+  color: #2A9EF1 !important;
+}
+.bg_blue{
+  background: #2A9EF1;
+}
+
+.btn{
+  border-radius: 5rpx;
+}
+
+.shape-cover{
+
+     position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background-color: rgba(0,0,0,.3);
+        z-index: 999;
+        display: block;
+  
+}
+.show-cover{
+  display: block;
+}
+.hide-cover{
+  display: none;
+}
+.button{
+  height: 95rpx;
+  margin-left: 40rpx;
+  margin-right: 40rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 25rpx;
+  color: white;
+  border-radius: 5rpx;
+}
+.mt65{
+  margin-top: 65rpx;
+}
+.blue_btn{
+ height: 91rpx;
+ width: 699rpx;
+ border-radius: 10rpx;
+ background: #2A9EF1;
+ color: white;
+ font-size: 26rpx;
+ text-align: center;
+ line-height: 91rpx;
+}
+/** 首页弹窗 */
+.modal-mask {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: #000;
+  opacity: 0.7;
+  overflow: hidden;
+  z-index: 9000;
+  color: #fff;
+}
+.modal-dialog {
+  width: 550rpx;
+  height: 580rpx;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  z-index: 9999;
+  margin: -320rpx -275rpx;
+  border-radius: 0;
+}
+.modal-dialog-wrap{
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.modal-dialog-wrap .img{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 140rpx;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+}
+.wrap-logo{
+  width: 280rpx;
+  height: 280rpx;
+  position: relative;
+  left: 135rpx;
+  top: 0;
+  /* margin-top: -140rpx; */
+  
+}
+.wrap-logo .img{
+  top: 0;
+  z-index: -1;
+}
+.wrap-logo .images{
+  width: 61rpx;
+  height: 55rpx;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 11;
+}
+.wrap-button{
+  width: 370rpx;
+  height: 80rpx;
+  line-height: 80rpx;
+  text-align: center;
+  font-size: 40rpx;
+  color: RGBA(42, 158, 241, 1);
+  box-sizing: border-box;
+  /* border: 2rpx solid RGBA(42, 158, 241, 1); */
+  border-radius: 40rpx;
+  margin: 60rpx auto 10rpx;
+  background: #fff;
+}
+.wrap-title{
+  width: 100%;
+  line-height: 70rpx;
+  font-size: 30rpx;
+  text-align: center;
+  box-sizing: border-box;
+  padding: 0 32rpx;
+  color: #fff;
+}

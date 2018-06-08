@@ -1,0 +1,118 @@
+page{
+  background:white;
+}
+.ten{
+  height: 10rpx;
+  width: 100%;
+  background: #f0f3f5;
+}
+.cal{
+  width: 37rpx;
+  height: 37rpx;
+}
+.year{
+  font-size: 36rpx;
+   margin-left: 14rpx;
+   color: #777777;
+}
+.left_triangle{
+  width: 29rpx;
+  height: 29rpx;
+  margin-left: 49rpx;
+}
+.right_triangle{
+  width: 29rpx;
+  height: 29rpx;
+
+}
+.month{
+  width: 142rpx;
+  text-align: center;
+}
+.week_item{
+ flex: 1;
+  height: 99rpx;
+  border: 1rpx solid #DBDBDB;
+  border-bottom: 0;
+  border-right: 0;
+}
+.mywrap{
+  border-right: 1rpx solid #DBDBDB;
+
+}
+.borderbottom:last-child{
+ border-bottom: 1rpx solid #DBDBDB;
+ margin-left: 32rpx;
+ margin-right: 32rpx;
+}
+.gray_date{
+  color: #BEBDBD;
+  margin-right: 9rpx;
+}
+.myname{
+  color: #696969;
+  font-size: 20rpx;
+  margin-left: 5rpx;
+  margin-right: 5rpx;
+}
+.shadow_item{
+ margin: 30rpx 32rpx;
+min-height:170rpx; 
+padding-bottom: 20rpx;
+background:rgba(255,255,255,1);
+border-radius: 10rpx ;
+box-shadow:5rpx 0rpx 16rpx rgba(130,130,130,0.3) ;
+}
+.blue_tag{
+background:rgba(42,158,241,1);
+border-radius: 3rpx ;
+padding: 10rpx;
+height:30rpx;
+font-size: 18rpx;
+color: white;
+}
+
+.swiper-container {
+  position: relative;
+}
+
+.swiper-container .swiper2 {
+  width: 750rpx;
+  height: 600rpx;
+  
+}
+.swiper-container .swiper {
+  width: 750rpx;
+    height:650rpx;
+
+}
+
+.swiper-container .swiper .image {
+  width: 100%;
+  display: inline-block;
+
+  overflow: hidden;
+}
+
+.swiper-container .dots {
+  position: absolute;
+  right: 40rpx;
+  bottom: 20rpx;
+  display: flex;
+  justify-content: center;
+}
+
+.swiper-container .dots .dot {
+  width: 28rpx;
+  height: 28rpx;
+  background: #fff;
+  border-radius: 50%;
+  transition: all 0.6s;
+  font: 300 18rpx/28rpx "microsoft yahei";
+  text-align: center;
+}
+
+.swiper-container .dots .dot.active {
+  background: #f80;
+  color: #fff;
+}

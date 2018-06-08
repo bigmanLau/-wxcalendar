@@ -1,0 +1,55 @@
+<view class='ten'></view>
+<view class=" bg_white">
+  <view class='flex_row  flex_center '>
+    <image src='img/cal.png' class='cal'></image>
+    <view class='year'>{{startYear}}</view>
+    <image src='img/l.png' class='left_triangle' bindtap='goLastMonth'></image>
+    <view class='size36 black77 month flex_row flex_center'>{{startMonth%12==0?"12":startMonth%12}}月</view>
+    <image src='img/r.png' class='right_triangle' bindtap='goNextMonth'></image>
+   
+  </view>
+
+
+  <view class='flex_row flex_center margin32 mt40'>
+    <view class='size24 blue flex_1 flex_row flex_center '>日</view>
+    <view class='size24 black3c flex_1 flex_row flex_center '>一</view>
+    <view class='size24 black3c flex_1 flex_row flex_center '>二</view>
+    <view class='size24 black3c flex_1 flex_row flex_center '>三</view>
+    <view class='size24 black3c flex_1 flex_row flex_center '>四</view>
+    <view class='size24 black3c flex_1 flex_row flex_center '>五</view>
+    <view class='size24 blue flex_1 flex_row flex_center '>六</view>
+  </view>
+  <view class="swiper-container">
+    <swiper class="swiper" indicator-dots="{{indicatorDots}}" vertical="{{vertical}}" autoplay="{{autoplay}}" interval="{{interval}}" duration="{{0}}" current="{{swiperCurrent}}" bindchange="swiperChange" circular="{{circular}}" scroll-with-animation="{{true}}">
+
+      <block wx:for="{{banner}}" wx:for-item="item" wx:key="unique">
+        <swiper-item>
+          <view class='mt15 borderbottom'>
+            <block wx:for="{{6}}" wx:for-item="i" wx:key="unique">
+              <view class="flex_row flex_center   mywrap ">
+                <block wx:for="{{7}}" wx:for-item="j" wx:key="unique">
+                  <view class='week_item'>
+                    <view class='flex_row flex_end size24 gray_date {{item[7*i+j].type==2?"black3c":""}}'>{{item[7*i+j].day}}</view>
+                    <view class='flex_row flex_row_center  space-between wrap mt7'>
+                       <view class='flex_row flex_center myname '></view>
+                      <view class='flex_row flex_center myname'>京津冀</view>
+                      <view class='flex_row flex_center myname '></view>
+                      <view class='flex_row flex_center myname'></view> 
+                    </view>
+                  </view>
+                </block>
+
+              </view>
+            </block>
+
+          </view>
+
+        </swiper-item>
+      </block>
+    </swiper>
+
+  </view>
+
+</view>
+
+
